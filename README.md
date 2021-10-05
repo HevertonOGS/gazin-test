@@ -54,7 +54,7 @@ No diretório raiz do projeto altere o arquivo `ormconfig.example.json` para `or
 
     ```
     {
-    	"name": "Héverton Oliveira",
+      "name": "Héverton Oliveira",
       "sex": "M",
       "age": 23,
       "hobby": "Curtir um Rock",
